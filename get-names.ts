@@ -1,0 +1,1 @@
+[...document.querySelectorAll(`.d-inline-block.aabtn`)].map(el => el.textContent).join('\n')
